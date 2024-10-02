@@ -1,2 +1,1 @@
 hello world
-saya menambahkan baris ini dari branch fitur-A
